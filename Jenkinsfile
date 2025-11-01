@@ -15,7 +15,7 @@ stages
             {
                         steps
                         {
-                                    echo ‘This is Clean Stage'
+                                    echo 'This is Clean Stage'
                         }
                         }
 stage('Clean Success Stage')

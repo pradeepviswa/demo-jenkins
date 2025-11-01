@@ -55,5 +55,14 @@ stage('Clean Success Stage')
                                     echo 'This is Extra Stage'
                         }
             }                      
+
+            stage('Extra Stage 2')
+            {
+                        steps
+                        {
+                                    echo 'This is Extra Stage 2'
+                        }
+            }                      
+
 }
 }

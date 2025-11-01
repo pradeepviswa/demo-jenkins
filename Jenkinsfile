@@ -29,7 +29,7 @@ stage('Clean Success Stage')
             {
                         steps
                         {
-                                    echo ‘This is Clean Success Stage’
+                                    echo 'This is Clean Success Stage'
                         }
             }                      
             stage('Build & Install Stage')

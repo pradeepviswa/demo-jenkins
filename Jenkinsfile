@@ -36,7 +36,7 @@ stage('Clean Success Stage')
             {
                         steps
                         {
-                                    echo ‘This is Build Stage’
+                                    echo 'This is Build Stage'
                         }
             }                      
            
